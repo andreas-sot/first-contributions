@@ -663,6 +663,7 @@
 - [Rachael Onoja](https://github.com/onojarachael)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
 - [Rashid Ali](https://github.com/rashidjama)
+- [Andreas Soteriou](https://github.com/andreas-sot)
 - [Zsuzsa Lukacs](https://github.com/ZsuzsaMano)
 - [sbapollocoder](https://github.com/sbapollocoder)
 - [Cedillo](https://github.com/zmcedillo)
